@@ -1851,7 +1851,7 @@ body {
 .hero-section {
   position: relative;
   height: 100vh;
-  background-image: url("/assets/images/logo-almus-gradient.png");
+  background-image: url("../images/logo-almus-gradient.png");
   background-size: cover;
   background-position: center;
 }
