@@ -1834,7 +1834,7 @@ body {
 }
 
 .slide-inner {
-  background: url("/assets/images/logo-almus-gradient.png");
+  background: url("../images/logo-almus-gradient.png");
   background-size: cover;
   background-position: 50% 45%;
 }
